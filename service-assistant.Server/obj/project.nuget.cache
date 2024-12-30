@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gvCTuwYIjmtXXXxLMQ6qhP3vsUK0YyoWF4Y6pMOef5Z+JKhNA7+o1OP8MAieOLWsyrZUsdSAZw8LxFqvMbje9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\service-assistant\\service-assistant.Server\\service-assistant.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.11\\microsoft.aspnetcore.spaproxy.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
